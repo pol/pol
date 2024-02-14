@@ -1,9 +1,8 @@
 ### Hello, I'm Pol.  
 
-- Pronouns: He/Him
-- Pronunciation: I pronounce my name "paul", but I embrace all variants. 
-- I am currently working at Auth0 in Private SaaS Engineering. Say hi: https://keybase.io/pol. 
-- I love to talk about CAP theorem, Dwarf Fortress, and dualistic paradox. 
+- Pol (/pawl/ or /pohl/) is not abbreviated. 
+- I am currently working at Okta in Platform Engineering. Say hi: https://keybase.io/pol. 
+- I love to talk about CAP theorem, Dwarf Fortress, and philosophy. 
 
 <!--
 **pol/pol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
